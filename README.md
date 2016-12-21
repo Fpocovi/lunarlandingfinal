@@ -26,6 +26,5 @@ En el directorio raíz (rama master) hay tres archivos:
 * [**about.html**](https://github.com/Fpocovi/lunarlandingfinal/tree/master/about.html): en esta página se explica lo que se ha hecho en esta aplicación. 
 * [**howplay.html**](https://github.com/Fpocovi/lunarlandingfinal/tree/master/howplay.html): Aquí hay una breve descripción de como se maneja este juego. 
 
-Al probar con rawgit.com da algunos fallos como no cargar el motor encendido o bien no salir una explosión que hay cuando no llegas a la velocida correcta.Se ha probado en un servidor interno que tengo y funciona correctamente igual que al probarlo en el disco duro.Después de unos 5 minutos con la aplicación cargada el el rawgit empieza a funcionar correctamente(no se si sera problema de mi conexión de internet o bien es algún fallo del rawgit)
-
+Al probar con rawgit.com da algunos fallos como no cargar el motor encendido o bien no salir una explosión que hay cuando no llegas a la velocida correcta.Se ha probado en un servidor interno que tengo y funciona correctamente igual que al probarlo en el disco duro.Después de unos 5 minutos con la aplicación cargada el el rawgit empieza a funcionar correctamente(no se si sera problema de mi conexión de internet o bien es algún fallo del rawgit).También parece ser que cuando cargas la versión móvil en el rawgit la página principal la carga correctamente pero al cargar la página about.hml y howplay.html lo carga como si fuera versión pc. Este fallo solo ocurre cuando se prueba con el rawgit cuando la cargas en local funciona correctamente.
 ***
