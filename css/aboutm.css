@@ -1,0 +1,82 @@
+body, html {
+	background-image: url("../img/fondo.jpg");
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+	background-position: center center;
+	background-repeat: no-repeat
+}
+
+p {
+	color: black;
+	display: inline-block;
+	width: 75%;
+	height: 100%;
+	float: left;
+	left: 50px;
+	position: absolute;
+	font: bold 16px Arial, serif;
+}
+
+.a {
+	width: 100%;
+	height: 90px;
+	overflow: hidden;
+	position: fixed;
+	top: 0px;
+}
+
+.b {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.c {
+	background-image: url("../img/fondo.jpg");
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	display: none;
+	z-index: 1;
+	background-position: center center;
+	background-repeat: no-repeat
+}
+
+#hidem, #showm {
+	float: right;
+	font: bold 15px Arial, serif;
+	color: black;
+}
+
+#menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	text-align: center;
+	size: 50px;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 1px;
+	text-decoration: none;
+	font: bold 30px Arial, serif;
+}
+
+li a:hover {
+	background-color: #666666;
+	display: block;
+}
+
+#jugar {
+	stop()
+}
