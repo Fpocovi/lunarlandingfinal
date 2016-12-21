@@ -1,5 +1,7 @@
 ## Proyecto lunar landing
 ***
+Este proyecto a sido creado por Felip Pocoví Rubert
+
 Se ha descargado una imagen del cohete de la página [*web*](https://pixabay.com/es/cohete-nave-espacial-lanzamiento-528071/). Dicha imagen
 ha sido modificada con el photoshop para usarla con el motor encendido o apagado.
 
